@@ -12,7 +12,7 @@ This project is a simple Flask-based API that allows users to upload an image, c
 - Temporary file handling and clean-up after processing.
 - Return converted images as downloadable files.
 
----
+----
 
 ## Technologies Used
 
